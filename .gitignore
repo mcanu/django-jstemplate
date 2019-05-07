@@ -11,3 +11,4 @@ htmlcov/
 django_icanhaz*.egg-info
 dist/
 _build/
+jstemplate/.idea/
