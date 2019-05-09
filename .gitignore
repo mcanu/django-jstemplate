@@ -12,3 +12,4 @@ django_icanhaz*.egg-info
 dist/
 _build/
 jstemplate/.idea/
+.DS_Store
