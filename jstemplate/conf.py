@@ -29,4 +29,5 @@ conf = Configuration(
     JSTEMPLATE_APP_DIRNAMES=["jstemplates"],
     JSTEMPLATE_I18N_TAGS=["_", "i18n"],
     JSTEMPLATE_PREPROCESSORS=['jstemplate.preprocessors.I18nPreprocessor'],
+    FILE_CHARSET='UTF-8',
     )
